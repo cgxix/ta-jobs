@@ -5,3 +5,9 @@ This is an application to accept job applications from leads generated through P
 ### Tech Stack
 
 Node, Mongo
+
+### Setup
+
+- $`npm install`
+- Open new terminal window start mongodb: $`mongod`
+- $`nodemon index.js`
